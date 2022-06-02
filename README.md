@@ -4,8 +4,4 @@ Repository used for learning julia/course assignments/replicating code from othe
 
 # Notebook issue
 
-<<<<<<< HEAD
-<b>Some julia notebboks don't work on github for some reason but they can be view in binder at https://mybinder.org </b>
-=======
-Some julia notebboks don't work on github for some reason but pdf's of compiled code are provided
->>>>>>> 8354699c3826156aabf764386b4be551525eee7c
+Some julia notebooks don't work on github so it's compiled into pdf instead.
